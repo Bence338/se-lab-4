@@ -1,3 +1,4 @@
+# Csinálunk egy hajót,10-10torpedóval és próbálunk kilőni 1db torpedót. Nincs hibarate, a váltást tesztelem az ALL és a SINGLE között
 GT4500,10,0,10,0
 TORPEDO,ALL
 TORPEDO,SINGLE

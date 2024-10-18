@@ -1,3 +1,4 @@
+# Csinálunk egy hajót,1-0torpedóval és próbálunk kilőni 2db torpedót. Nincs hibarate, és azt tesztelem, hogy tényleg ki tudja-e lőni a 2 torpedót egymás után 
 GT4500,1,0,0,0
 TORPEDO,SINGLE
 TORPEDO,SINGLE
