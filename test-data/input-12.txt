@@ -1,0 +1,4 @@
+# Csinálunk egy hajót,1-1torpedóval és próbálunk kilőni 4db torpedót. Nincs hibarate, és azt tesztelem, hogy tényleg ki tudja-e lőni a 4 torpedót 
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
